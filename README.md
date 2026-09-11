@@ -24,6 +24,9 @@
 <br/>
 
 <!-- BADGES DE CONTATO -->
+<a href="https://mateussantos590.github.io">
+  <img src="https://img.shields.io/badge/Portfólio-3ddc97?style=for-the-badge&logo=googlechrome&logoColor=0a0e14"/>
+</a>
 <a href="https://www.linkedin.com/in/mateus-santos-telles-0526ba302/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -44,6 +47,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (UNG, 3º semestre) 
 
 Meu foco é transformar dados brutos em informações que ajudem pessoas e negócios a tomar decisões melhores — e provar isso com projetos reais, não só teoria.
 
+- 🌐 Veja meu portfólio completo em **[mateussantos590.github.io](https://mateussantos590.github.io)**
 - 🔭 Trabalhando atualmente na **NexaData Insights** — meu negócio de automação e BI para pequenos negócios (dashboards, landing pages, automação via WhatsApp)
 - 🎯 Buscando oportunidades como **Analista de Dados / BI Jr.**
 - 📍 São Paulo, Brasil
