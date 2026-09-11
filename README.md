@@ -1,167 +1,187 @@
-# 👋 Olá, eu sou Mateus Santos Telles
+<!--
+========================================================================
+  README DE PERFIL — MateusSantos590
+  Já preenchido com seus dados reais (LinkedIn, Instagram, repositórios).
+  Como customizar mais:
+  1. Troque as CORES trocando os valores hexadecimais nas URLs
+     do shields.io e do capsule-render (ex: 0f2027, 2c5364).
+  2. Para trocar a frase animada do topo, edite o parâmetro "lines="
+     na URL do readme-typing-svg.
+  3. Todo bloco vem comentado dizendo o que é e onde mexer.
+========================================================================
+-->
 
-### 📊 Analista de Dados em Formação | Python • SQL • Power BI • ETL
+<div align="center">
 
-🎓 Análise e Desenvolvimento de Sistemas · UNG · 3º semestre  
-📍 São Paulo, Brasil  
-🎯 Buscando estágio em **Análise de Dados, Business Intelligence ou Dados & Automação**
+<!-- BANNER — troque as cores (0f2027,2c5364) ou o texto pelo capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Mateus%20Santos%20Telles&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dados%20%7C%20BI%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
 
----
+<!-- FRASE ANIMADA — edite "lines=" para mudar o texto que aparece digitando -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Analista+de+Dados+em+Forma%C3%A7%C3%A3o;Python+%7C+SQL+%7C+Power+BI+%7C+ETL;Transformando+dados+em+decis%C3%A3o" alt="Typing SVG" />
+</a>
 
-## 🧠 Sobre mim
+<br/>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha carreira na área de **Dados**.
+<!-- BADGES DE CONTATO -->
+<a href="https://www.linkedin.com/in/mateus-santos-telles-0526ba302/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mateussantos147854@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/mateus360_santos">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-Meu foco é transformar dados brutos em informações que possam ajudar pessoas e negócios a tomar decisões melhores.
+</div>
 
-Tenho estudado e desenvolvido projetos envolvendo:
+<br/>
 
-- 📊 Análise de Dados
-- 🧹 ETL e tratamento de dados
-- 🗄️ SQL e bancos relacionais
-- 📈 Business Intelligence
-- 🤖 Automação
-- 🔌 Integração com APIs
-- 🧠 Inteligência Artificial aplicada a dados
+## 📊 Sobre mim
 
-Meu objetivo não é apenas aprender ferramentas, mas entender **quando, por que e como utilizá-las para resolver problemas reais**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (UNG, 3º semestre) construindo carreira na área de **Dados**.
 
----
+Meu foco é transformar dados brutos em informações que ajudem pessoas e negócios a tomar decisões melhores — e provar isso com projetos reais, não só teoria.
 
-# 🛠️ Tecnologias
+- 🔭 Trabalhando atualmente na **NexaData Insights** — meu negócio de automação e BI para pequenos negócios (dashboards, landing pages, automação via WhatsApp)
+- 🎯 Buscando oportunidades como **Analista de Dados / BI Jr.**
+- 📍 São Paulo, Brasil
+- 💬 Pergunte-me sobre Python, SQL, ETL ou Power BI
 
-### 🐍 Linguagens & Dados
+<br/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,sqlite" />
-</p>
+## 🛠️ Stack técnica
 
-**Python · SQL · PostgreSQL · SQLite**
+<!--
+  Para trocar os ícones, procure o nome da tecnologia em https://skillicons.dev
+  e adicione/remova na URL abaixo (separado por vírgula).
+-->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,postgres,sqlite,git,github,vscode,fastapi,html,css,js&theme=dark" />
+</div>
 
----
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-### 📊 Análise & Visualização
+**📈 Análise & BI**
+Python · Pandas · NumPy · Power BI · Metabase · Excel
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+**🗄️ Dados & ETL**
+SQL · PostgreSQL · SQLite · APIs · Web Scraping
 
-**Pandas · NumPy · Matplotlib · Seaborn**
+</td>
+<td valign="top" width="50%">
 
-> Ferramentas utilizadas para tratamento, exploração, análise estatística e visualização de dados.
+**🤖 Automação & IA**
+n8n · Evolution API · Prompt Engineering · Agentes de IA
 
----
+**💻 Dev**
+FastAPI · Git/GitHub · VS Code · Jupyter Notebook
 
-### 📈 Business Intelligence
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi" />
-</p>
+<br/>
 
-**Power BI · Metabase · Excel**
+## 🚀 Projetos em destaque
 
-> Construção de dashboards, indicadores, análises gerenciais e visualizações orientadas à tomada de decisão.
+<!--
+  Cada bloco abaixo é um "card" de projeto. Para adicionar um novo projeto,
+  copie um bloco inteiro (da linha <table> até </table>) e ajuste o texto e o link.
+-->
 
----
+<table>
+<tr>
+<td width="100%">
 
-### 🔄 ETL & Automação
+### 📊 ENEM 2023 — Análise Socioeconômica
+Investigação da relação entre contexto socioeconômico e desempenho, em uma base com **+3 milhões de registros**.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sqlite" />
-</p>
+`Python` `Pandas` `NumPy` `SQL` `Power BI` `Matplotlib` `Seaborn`
 
-**Python Scripts · ETL · APIs · Web Scraping**
+**Principais etapas:** limpeza e tratamento de dados → seleção de variáveis → estatística descritiva → análise exploratória → correlação → dashboard no Power BI.
 
-> Extração → Tratamento → Transformação → Armazenamento → Análise.
+📌 **Resultado-chave:** correlação de **0,71** entre renda familiar per capita e desempenho em Matemática.
 
----
+🔗 [Ver repositório](https://github.com/MateusSantos590/Projeto_analise_dados-desigualdade_educacional_no_brasil_ENEM23)
 
-### 🤖 Inteligência Artificial
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+<table>
+<tr>
+<td width="100%">
 
-**IA Generativa · Prompt Engineering · APIs de IA · Agentes de IA**
+### 🎮 Flappy Bird Custom Deluxe
+Jogo em Python com temas visuais, sistema de moedas, power-ups desbloqueáveis, skins personalizáveis, som sintetizado proceduralmente e salvamento persistente.
 
-> Explorando aplicações de Inteligência Artificial para automação, análise e integração de sistemas.
+`Python` `Pygame`
 
----
+**Diferencial:** documentação completa (README + CHANGELOG) como em um projeto de produto real, não só um script.
 
-### 💻 Desenvolvimento & Ferramentas
+🔗 [Ver repositório](https://github.com/MateusSantos590/Game_Flappy-Bird-Custom)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
+</td>
+</tr>
+</table>
 
-**Git · GitHub · VS Code · Jupyter Notebook**
+<table>
+<tr>
+<td width="100%">
 
----
+### 🔐 Controle de Senhas
+Gerenciador de senhas seguro desenvolvido em Python, com foco em segurança e praticidade no dia a dia.
 
-# 🚀 Projetos em Destaque
+`Python`
 
-## 📊 ENEM 2023 · Análise Socioeconômica
+🔗 [Ver repositório](https://github.com/MateusSantos590/Controle-de-senhas)
 
-### Investigando a relação entre contexto socioeconômico e desempenho
+</td>
+</tr>
+</table>
 
-**Python · Pandas · NumPy · SQL · Power BI · Matplotlib · Seaborn**
+<!--
+  Sugestão: quando publicar os projetos de NexaData Insights e da análise
+  de ocorrências aeronáuticas (CENIPA) como repositórios no GitHub, copie
+  um bloco <table> acima e adicione o card aqui.
+-->
 
-Analisei uma base com **mais de 3 milhões de registros** para investigar a relação entre fatores socioeconômicos e o desempenho dos participantes do ENEM.
+<br/>
 
-### 🔎 O projeto envolve
+## 📌 Repositórios fixados
 
-- Limpeza e tratamento de dados
-- Identificação de inconsistências
-- Seleção de variáveis
-- Estatística descritiva
-- Análise exploratória
-- Correlação entre variáveis
-- Visualização de dados
-- Dashboard no Power BI
+> Isso é feito direto no GitHub, não no README: no seu perfil, clique em
+> **"Customize your pins"** e escolha até 6 repositórios. É a forma mais
+> estável de destacar projetos — não depende de nenhum serviço externo.
 
-### 📌 Principal resultado
+<br/>
 
-Foi identificada uma **correlação de 0,71 entre renda familiar per capita e desempenho em Matemática**.
+## 📈 Atividade
 
-O projeto demonstra como uma grande quantidade de dados pode ser transformada em **evidências para investigar desigualdades educacionais**.
+<!--
+  Widget único e testado (github-readme-streak-stats). Evite empilhar
+  vários serviços de terceiros: além de poluir visualmente, muitos deles
+  (como o github-readme-stats oficial) ficam fora do ar com frequência
+  por excederem o limite gratuito do Vercel. Se quiser trocar o tema,
+  troque "theme=react" por outro nome válido (dracula, radical, gruvbox...).
+-->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSantos590&theme=react&hide_border=true&background=0f2027&stroke=2C5364&ring=2C5364&fire=ffffff&currStreakLabel=ffffff" width="60%"/>
+</div>
 
-🔗 **[Ver projeto no GitHub](#)**
+<!--
+  OPCIONAL: se quiser stats de linguagens/commits além do streak, a forma
+  mais confiável é hospedar sua PRÓPRIA instância do github-readme-stats
+  gratuitamente no Vercel (evita o rate-limit da instância pública, que
+  fica fora do ar com frequência). Veja o passo a passo no guia de setup.
+-->
 
----
+<br/>
 
-# 📈 NexaData Insights
-
-### BI aplicado a pequenos negócios
-
-**Python · Pandas · SQL · SQLite · Power BI · Metabase**
-
-Projeto desenvolvido para simular um cenário empresarial no qual dados estão distribuídos entre diferentes fontes e precisam ser organizados para gerar uma visão gerencial.
-
-### 🔎 O projeto envolve
-
-- ETL com Python
-- Tratamento de dados
-- Banco SQLite
-- Modelagem dimensional
-- Definição de KPIs
-- Análise de clientes
-- Análise de retenção
-- Identificação de gargalos
-- Dashboards gerenciais
-
-### 🔄 Fluxo
-
-```text
-Dados brutos
-     ↓
-Extração
-     ↓
-Tratamento
-     ↓
-Modelagem
-     ↓
-Análise
-     ↓
-Dashboard
-     ↓
-Decisão
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+</div>
